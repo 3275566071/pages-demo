@@ -1,0 +1,5 @@
+name = "your-app-name"
+type = "javascript"
+
+main = ".open-next/worker.js"
+compatibility_date = "2024-02-07"
